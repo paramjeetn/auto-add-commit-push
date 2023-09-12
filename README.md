@@ -29,7 +29,7 @@ if you have a single branch then you can just delete 5th and 6th lines and in 7t
 
 Step 5:- press ctrl+s , and exit the file ( ctrl+w two times will do)  \
 Step 6:- from the repo open terminal  \
-Step 7:- type  sudo chmod +x repo_name_autopush.sh     \           
+Step 7:- type  sudo chmod +x repo_name_autopush.sh            
 step 8:- give password , DONE \
 Final step : - just right click on the sh file and then click run as program , it will ask for commit message then press enter , also do same if ask branch name give the branch name and enter. 
 
