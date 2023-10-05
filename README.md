@@ -20,6 +20,8 @@ read branch
 
 git push origin $branch
 
+exit \
+
 read
 
 
